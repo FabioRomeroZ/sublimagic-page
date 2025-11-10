@@ -107,28 +107,9 @@ Para personalizar:
 2. **Contenido**: Edita los textos en cada sección
 3. **Productos**: Agrega o modifica productos en la sección correspondiente
 4. **Estilos**: Ajusta `styles.css` para cambios más específicos
-
-## 🌐 Hosting
-
-Puedes subir esta página a:
-- **Netlify** (gratis) - ⭐ Más fácil: solo arrastra y suelta
-- **Vercel** (gratis) - Muy rápido y fácil
-- **GitHub Pages** (gratis) - Si usas GitHub
-- **Cloudflare Pages** (gratis) - CDN global
-- Cualquier hosting estático
-
-📖 **Ver [DEPLOY.md](DEPLOY.md) para guía completa de despliegue**
-
-## 📸 Próximas Mejoras (Opcional)
-
-- Galería de imágenes de productos
-- Formulario de contacto funcional
-- Testimonios de clientes
-- Blog o noticias
-- Catálogo interactivo
-
 ---
 
 **Desarrollado para Sublimagic** ✨  
 *Magia y Estilo en Sublimación*
+
 
